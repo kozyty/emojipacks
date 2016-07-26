@@ -1,0 +1,304 @@
+title: pokename
+emojis:
+  - name: bulbasaur
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/001.png
+  - name: ivysaur
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/002.png
+  - name: venusaur
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/003.png
+  - name: charmander
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/004.png
+  - name: charmeleon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/005.png
+  - name: charizard
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/006.png
+  - name: squirtle
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/007.png
+  - name: wartortle
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/008.png
+  - name: blastoise
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/009.png
+  - name: caterpie
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/010.png
+  - name: metapod
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/011.png
+  - name: butterfree
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/012.png
+  - name: weedle
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/013.png
+  - name: kakuna
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/014.png
+  - name: beedrill
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/015.png
+  - name: pidgey
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/016.png
+  - name: pidgeotto
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/017.png
+  - name: pidgeot
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/018.png
+  - name: rattata
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/019.png
+  - name: raticate
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/020.png
+  - name: spearow
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/021.png
+  - name: fearow
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/022.png
+  - name: ekans
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/023.png
+  - name: arbok
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/024.png
+  - name: pikachu
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/025.png
+  - name: raichu
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/026.png
+  - name: sandshrew
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/027.png
+  - name: sandslash
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/028.png
+  - name: nidoran-f
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/029.png
+  - name: nidorina
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/030.png
+  - name: nidoqueen
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/031.png
+  - name: nidoran-m
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/032.png
+  - name: nidorino
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/033.png
+  - name: nidoking
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/034.png
+  - name: clefairy
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/035.png
+  - name: clefable
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/036.png
+  - name: vulpix
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/037.png
+  - name: ninetales
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/038.png
+  - name: jigglypuff
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/039.png
+  - name: wigglytuff
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/040.png
+  - name: zubat
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/041.png
+  - name: golbat
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/042.png
+  - name: oddish
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/043.png
+  - name: gloom
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/044.png
+  - name: vileplume
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/045.png
+  - name: paras
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/046.png
+  - name: parasect
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/047.png
+  - name: venonat
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/048.png
+  - name: venomoth
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/049.png
+  - name: diglett
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/050.png
+  - name: dugtrio
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/051.png
+  - name: meowth
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/052.png
+  - name: persian
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/053.png
+  - name: psyduck
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/054.png
+  - name: golduck
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/055.png
+  - name: mankey
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/056.png
+  - name: primeape
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/057.png
+  - name: growlithe
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/058.png
+  - name: arcanine
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/059.png
+  - name: poliwag
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/060.png
+  - name: poliwhirl
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/061.png
+  - name: poliwrath
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/062.png
+  - name: abra
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/063.png
+  - name: kadabra
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/064.png
+  - name: alakazam
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/065.png
+  - name: machop
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/066.png
+  - name: machoke
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/067.png
+  - name: machamp
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/068.png
+  - name: bellsprout
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/069.png
+  - name: weepinbell
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/070.png
+  - name: victreebel
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/071.png
+  - name: tentacool
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/072.png
+  - name: tentacruel
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/073.png
+  - name: geodude
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/074.png
+  - name: graveler
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/075.png
+  - name: golem
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/076.png
+  - name: ponyta
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/077.png
+  - name: rapidash
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/078.png
+  - name: slowpoke
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/079.png
+  - name: slowbro
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/080.png
+  - name: magnemite
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/081.png
+  - name: magneton
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/082.png
+  - name: farfetchd
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/083.png
+  - name: doduo
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/084.png
+  - name: dodrio
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/085.png
+  - name: seel
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/086.png
+  - name: dewgong
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/087.png
+  - name: grimer
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/088.png
+  - name: muk
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/089.png
+  - name: shellder
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/090.png
+  - name: cloyster
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/091.png
+  - name: gastly
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/092.png
+  - name: haunter
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/093.png
+  - name: gengar
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/094.png
+  - name: onix
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/095.png
+  - name: drowzee
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/096.png
+  - name: hypno
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/097.png
+  - name: krabby
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/098.png
+  - name: kingler
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/099.png
+  - name: voltorb
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/100.png
+  - name: electrode
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/101.png
+  - name: exeggcute
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/102.png
+  - name: exeggutor
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/103.png
+  - name: cubone
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/104.png
+  - name: marowak
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/105.png
+  - name: hitmonlee
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/106.png
+  - name: hitmonchan
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/107.png
+  - name: lickitung
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/108.png
+  - name: koffing
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/109.png
+  - name: weezing
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/110.png
+  - name: rhyhorn
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/111.png
+  - name: rhydon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/112.png
+  - name: chansey
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/113.png
+  - name: tangela
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/114.png
+  - name: kangaskhan
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/115.png
+  - name: horsea
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/116.png
+  - name: seadra
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/117.png
+  - name: goldeen
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/118.png
+  - name: seaking
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/119.png
+  - name: staryu
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/120.png
+  - name: starmie
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/121.png
+  - name: mr-mime
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/122.png
+  - name: scyther
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/123.png
+  - name: jynx
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/124.png
+  - name: electabuzz
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/125.png
+  - name: magmar
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/126.png
+  - name: pinsir
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/127.png
+  - name: tauros
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/128.png
+  - name: magikarp
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/129.png
+  - name: gyarados
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/130.png
+  - name: lapras
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/131.png
+  - name: ditto
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/132.png
+  - name: eevee
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/133.png
+  - name: vaporeon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/134.png
+  - name: jolteon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/135.png
+  - name: flareon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/136.png
+  - name: porygon
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/137.png
+  - name: omanyte
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/138.png
+  - name: omastar
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/139.png
+  - name: kabuto
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/140.png
+  - name: kabutops
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/141.png
+  - name: aerodactyl
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/142.png
+  - name: snorlax
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/143.png
+  - name: articuno
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/144.png
+  - name: zapdos
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/145.png
+  - name: moltres
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/146.png
+  - name: dratini
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/147.png
+  - name: dragonair
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/148.png
+  - name: dragonite
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/149.png
+  - name: mewtwo
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/150.png
+  - name: mew
+    src: https://raw.githubusercontent.com/kozyty/emojipacks/master/assets/images/151.png

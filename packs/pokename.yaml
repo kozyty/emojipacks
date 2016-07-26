@@ -1,304 +1,304 @@
 title: pokename
 emojis:
-  - name: bulbasaur
+  - name: pokemon_bulbasaur
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/001.png
-  - name: ivysaur
+  - name: pokemon_ivysaur
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/002.png
-  - name: venusaur
+  - name: pokemon_venusaur
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/003.png
-  - name: charmander
+  - name: pokemon_charmander
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/004.png
-  - name: charmeleon
+  - name: pokemon_charmeleon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/005.png
-  - name: charizard
+  - name: pokemon_charizard
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/006.png
-  - name: squirtle
+  - name: pokemon_squirtle
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/007.png
-  - name: wartortle
+  - name: pokemon_wartortle
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/008.png
-  - name: blastoise
+  - name: pokemon_blastoise
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/009.png
-  - name: caterpie
+  - name: pokemon_caterpie
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/010.png
-  - name: metapod
+  - name: pokemon_metapod
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/011.png
-  - name: butterfree
+  - name: pokemon_butterfree
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/012.png
-  - name: weedle
+  - name: pokemon_weedle
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/013.png
-  - name: kakuna
+  - name: pokemon_kakuna
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/014.png
-  - name: beedrill
+  - name: pokemon_beedrill
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/015.png
-  - name: pidgey
+  - name: pokemon_pidgey
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/016.png
-  - name: pidgeotto
+  - name: pokemon_pidgeotto
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/017.png
-  - name: pidgeot
+  - name: pokemon_pidgeot
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/018.png
-  - name: rattata
+  - name: pokemon_rattata
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/019.png
-  - name: raticate
+  - name: pokemon_raticate
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/020.png
-  - name: spearow
+  - name: pokemon_spearow
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/021.png
-  - name: fearow
+  - name: pokemon_fearow
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/022.png
-  - name: ekans
+  - name: pokemon_ekans
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/023.png
-  - name: arbok
+  - name: pokemon_arbok
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/024.png
-  - name: pikachu
+  - name: pokemon_pikachu
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/025.png
-  - name: raichu
+  - name: pokemon_raichu
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/026.png
-  - name: sandshrew
+  - name: pokemon_sandshrew
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/027.png
-  - name: sandslash
+  - name: pokemon_sandslash
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/028.png
-  - name: nidoran-f
+  - name: pokemon_nidoran-f
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/029.png
-  - name: nidorina
+  - name: pokemon_nidorina
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/030.png
-  - name: nidoqueen
+  - name: pokemon_nidoqueen
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/031.png
-  - name: nidoran-m
+  - name: pokemon_nidoran-m
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/032.png
-  - name: nidorino
+  - name: pokemon_nidorino
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/033.png
-  - name: nidoking
+  - name: pokemon_nidoking
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/034.png
-  - name: clefairy
+  - name: pokemon_clefairy
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/035.png
-  - name: clefable
+  - name: pokemon_clefable
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/036.png
-  - name: vulpix
+  - name: pokemon_vulpix
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/037.png
-  - name: ninetales
+  - name: pokemon_ninetales
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/038.png
-  - name: jigglypuff
+  - name: pokemon_jigglypuff
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/039.png
-  - name: wigglytuff
+  - name: pokemon_wigglytuff
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/040.png
-  - name: zubat
+  - name: pokemon_zubat
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/041.png
-  - name: golbat
+  - name: pokemon_golbat
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/042.png
-  - name: oddish
+  - name: pokemon_oddish
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/043.png
-  - name: gloom
+  - name: pokemon_gloom
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/044.png
-  - name: vileplume
+  - name: pokemon_vileplume
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/045.png
-  - name: paras
+  - name: pokemon_paras
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/046.png
-  - name: parasect
+  - name: pokemon_parasect
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/047.png
-  - name: venonat
+  - name: pokemon_venonat
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/048.png
-  - name: venomoth
+  - name: pokemon_venomoth
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/049.png
-  - name: diglett
+  - name: pokemon_diglett
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/050.png
-  - name: dugtrio
+  - name: pokemon_dugtrio
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/051.png
-  - name: meowth
+  - name: pokemon_meowth
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/052.png
-  - name: persian
+  - name: pokemon_persian
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/053.png
-  - name: psyduck
+  - name: pokemon_psyduck
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/054.png
-  - name: golduck
+  - name: pokemon_golduck
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/055.png
-  - name: mankey
+  - name: pokemon_mankey
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/056.png
-  - name: primeape
+  - name: pokemon_primeape
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/057.png
-  - name: growlithe
+  - name: pokemon_growlithe
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/058.png
-  - name: arcanine
+  - name: pokemon_arcanine
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/059.png
-  - name: poliwag
+  - name: pokemon_poliwag
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/060.png
-  - name: poliwhirl
+  - name: pokemon_poliwhirl
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/061.png
-  - name: poliwrath
+  - name: pokemon_poliwrath
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/062.png
-  - name: abra
+  - name: pokemon_abra
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/063.png
-  - name: kadabra
+  - name: pokemon_kadabra
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/064.png
-  - name: alakazam
+  - name: pokemon_alakazam
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/065.png
-  - name: machop
+  - name: pokemon_machop
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/066.png
-  - name: machoke
+  - name: pokemon_machoke
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/067.png
-  - name: machamp
+  - name: pokemon_machamp
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/068.png
-  - name: bellsprout
+  - name: pokemon_bellsprout
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/069.png
-  - name: weepinbell
+  - name: pokemon_weepinbell
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/070.png
-  - name: victreebel
+  - name: pokemon_victreebel
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/071.png
-  - name: tentacool
+  - name: pokemon_tentacool
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/072.png
-  - name: tentacruel
+  - name: pokemon_tentacruel
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/073.png
-  - name: geodude
+  - name: pokemon_geodude
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/074.png
-  - name: graveler
+  - name: pokemon_graveler
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/075.png
-  - name: golem
+  - name: pokemon_golem
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/076.png
-  - name: ponyta
+  - name: pokemon_ponyta
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/077.png
-  - name: rapidash
+  - name: pokemon_rapidash
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/078.png
-  - name: slowpoke
+  - name: pokemon_slowpoke
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/079.png
-  - name: slowbro
+  - name: pokemon_slowbro
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/080.png
-  - name: magnemite
+  - name: pokemon_magnemite
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/081.png
-  - name: magneton
+  - name: pokemon_magneton
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/082.png
-  - name: farfetchd
+  - name: pokemon_farfetchd
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/083.png
-  - name: doduo
+  - name: pokemon_doduo
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/084.png
-  - name: dodrio
+  - name: pokemon_dodrio
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/085.png
-  - name: seel
+  - name: pokemon_seel
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/086.png
-  - name: dewgong
+  - name: pokemon_dewgong
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/087.png
-  - name: grimer
+  - name: pokemon_grimer
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/088.png
-  - name: muk
+  - name: pokemon_muk
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/089.png
-  - name: shellder
+  - name: pokemon_shellder
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/090.png
-  - name: cloyster
+  - name: pokemon_cloyster
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/091.png
-  - name: gastly
+  - name: pokemon_gastly
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/092.png
-  - name: haunter
+  - name: pokemon_haunter
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/093.png
-  - name: gengar
+  - name: pokemon_gengar
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/094.png
-  - name: onix
+  - name: pokemon_onix
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/095.png
-  - name: drowzee
+  - name: pokemon_drowzee
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/096.png
-  - name: hypno
+  - name: pokemon_hypno
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/097.png
-  - name: krabby
+  - name: pokemon_krabby
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/098.png
-  - name: kingler
+  - name: pokemon_kingler
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/099.png
-  - name: voltorb
+  - name: pokemon_voltorb
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/100.png
-  - name: electrode
+  - name: pokemon_electrode
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/101.png
-  - name: exeggcute
+  - name: pokemon_exeggcute
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/102.png
-  - name: exeggutor
+  - name: pokemon_exeggutor
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/103.png
-  - name: cubone
+  - name: pokemon_cubone
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/104.png
-  - name: marowak
+  - name: pokemon_marowak
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/105.png
-  - name: hitmonlee
+  - name: pokemon_hitmonlee
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/106.png
-  - name: hitmonchan
+  - name: pokemon_hitmonchan
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/107.png
-  - name: lickitung
+  - name: pokemon_lickitung
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/108.png
-  - name: koffing
+  - name: pokemon_koffing
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/109.png
-  - name: weezing
+  - name: pokemon_weezing
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/110.png
-  - name: rhyhorn
+  - name: pokemon_rhyhorn
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/111.png
-  - name: rhydon
+  - name: pokemon_rhydon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/112.png
-  - name: chansey
+  - name: pokemon_chansey
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/113.png
-  - name: tangela
+  - name: pokemon_tangela
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/114.png
-  - name: kangaskhan
+  - name: pokemon_kangaskhan
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/115.png
-  - name: horsea
+  - name: pokemon_horsea
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/116.png
-  - name: seadra
+  - name: pokemon_seadra
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/117.png
-  - name: goldeen
+  - name: pokemon_goldeen
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/118.png
-  - name: seaking
+  - name: pokemon_seaking
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/119.png
-  - name: staryu
+  - name: pokemon_staryu
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/120.png
-  - name: starmie
+  - name: pokemon_starmie
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/121.png
-  - name: mr-mime
+  - name: pokemon_mr-mime
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/122.png
-  - name: scyther
+  - name: pokemon_scyther
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/123.png
-  - name: jynx
+  - name: pokemon_jynx
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/124.png
-  - name: electabuzz
+  - name: pokemon_electabuzz
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/125.png
-  - name: magmar
+  - name: pokemon_magmar
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/126.png
-  - name: pinsir
+  - name: pokemon_pinsir
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/127.png
-  - name: tauros
+  - name: pokemon_tauros
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/128.png
-  - name: magikarp
+  - name: pokemon_magikarp
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/129.png
-  - name: gyarados
+  - name: pokemon_gyarados
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/130.png
-  - name: lapras
+  - name: pokemon_lapras
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/131.png
-  - name: ditto
+  - name: pokemon_ditto
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/132.png
-  - name: eevee
+  - name: pokemon_eevee
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/133.png
-  - name: vaporeon
+  - name: pokemon_vaporeon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/134.png
-  - name: jolteon
+  - name: pokemon_jolteon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/135.png
-  - name: flareon
+  - name: pokemon_flareon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/136.png
-  - name: porygon
+  - name: pokemon_porygon
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/137.png
-  - name: omanyte
+  - name: pokemon_omanyte
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/138.png
-  - name: omastar
+  - name: pokemon_omastar
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/139.png
-  - name: kabuto
+  - name: pokemon_kabuto
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/140.png
-  - name: kabutops
+  - name: pokemon_kabutops
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/141.png
-  - name: aerodactyl
+  - name: pokemon_aerodactyl
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/142.png
-  - name: snorlax
+  - name: pokemon_snorlax
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/143.png
-  - name: articuno
+  - name: pokemon_articuno
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/144.png
-  - name: zapdos
+  - name: pokemon_zapdos
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/145.png
-  - name: moltres
+  - name: pokemon_moltres
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/146.png
-  - name: dratini
+  - name: pokemon_dratini
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/147.png
-  - name: dragonair
+  - name: pokemon_dragonair
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/148.png
-  - name: dragonite
+  - name: pokemon_dragonite
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/149.png
-  - name: mewtwo
+  - name: pokemon_mewtwo
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/150.png
-  - name: mew
+  - name: pokemon_mew
     src: https://raw.githubusercontent.com/kozyty/emojipacks/pokename/assets/images/151.png
